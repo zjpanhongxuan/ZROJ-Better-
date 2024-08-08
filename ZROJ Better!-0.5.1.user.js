@@ -7,6 +7,7 @@
 // @match		http://zhengruioi.com/*
 // @match		http://www.zhengruioi.com/*
 // @icon		http://zhengruioi.com/pictures/UOJ_small.png
+// @license		GNU GPLv3
 // @grant		GM_log
 // @grant		GM_openInTab
 // @grant		GM_registerMenuCommand
